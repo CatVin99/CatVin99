@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatVin99
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning socket programming
+- 🌱 I’m currently learning VHDL
 
 
 <!---
